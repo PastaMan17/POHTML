@@ -1,3 +1,156 @@
 <!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="CSS-bestanden/styles.css">
 
+    <title>-Bakker</title>
+</head>
 <body>
+
+
+<h2>Waddeneilanden</h2>
+<p>This is a paragraph.Het KNMI heeft code geel uitgegeven voor het hele land,<br>
+    met uitzondering van de <b>Waddeneilanden</b>. Het weerinstituut waarschuwt voor <br>
+    verraderlijke gladheid, <i>lichte</i> sneeuwval en plaatselijke mist. De weercode <br>
+    blijft zeker tot zaterdagochtend van kracht.</p>
+<hr>
+    <p>-Bakker</p>
+
+<br>
+
+H<sub>2</sub>O
+<br>
+X<sup>2</sup>
+<br>
+
+<ul>
+    <li>A</li>
+    <li>B</li>
+    <li>C</li>
+</ul>
+
+<ol>
+    <li>D</li>
+    <li>E</li>
+    <li>F</li>
+</ol>
+
+<a href="https://classroom.google.com">Classroom</a>
+
+<br><br>
+
+<img src="Afbeeldingen/Powerslave.jpg" alt="Powerslave_Album_Cover" width="300" height="300">
+
+<br><br>
+
+<table>
+    <colgroup>
+        <col style="background-color:red">
+        <col span="3" style="background-color:rgb(255, 174, 0)">
+      </colgroup>
+    <tr>
+      <th>product</th>
+      <th>aantal</th>
+      <th>prijs</th>
+      <th>totaal</th>
+    </tr>
+    <tr>
+      <td>product 1</td>
+      <td>873</td>
+      <td>10,05</td>
+      <td>8.773,65</td>
+    </tr>
+    <tr>
+      <td>product 2</td>
+      <td>93</td>
+      <td>13,25</td>
+      <td>1.232,25</td>
+    </tr>
+  </table>
+
+<br><br><br>
+
+<style>
+.blokmofloat{
+background-color: blue;
+color: blueviolet;
+border: 2px solid cornflowerblue;
+margin: 20px;
+padding: 0px 25px 0px 25px;
+float: left;
+}
+
+</style>
+
+<style>
+    .blokmofloat{
+    background-color: blue;
+    color: blueviolet;
+    border: 2px solid cornflowerblue;
+    margin: 20px;
+    padding: 0px 25px 0px 25px;
+    float: left;
+    }
+    
+    </style>
+
+<style>
+    .blokmofloat{
+    background-color: blue;
+    color: blueviolet;
+    border: 2px solid cornflowerblue;
+    margin: 20px;
+    padding: 0px 25px 0px 25px;
+    float: left;
+    }
+    
+    </style>
+
+<style>
+    .blokmofloat{
+    background-color: blue;
+    color: blueviolet;
+    border: 2px solid cornflowerblue;
+    margin: 20px;
+    padding: 0px 25px 0px 25px;
+    float: left;
+    }
+    
+    </style>
+
+<div class="blokmofloat">
+
+<h1> Jan Roelsma Belike</h1>
+<p> *blauw* </p>
+</div>
+
+<div class="blokmofloat">
+
+    <h1> Oscar Roelsma Belike</h1>
+    <p> *blauw* </p>
+    </div>
+    
+    <div class="blokmofloat">
+
+        <h1> Vivian Roelsma Belike</h1>
+        <p> *blauw* </p>
+        </div>
+        
+    <div class="blokmofloat">
+
+        <h1> Hugo Roelsma Belike</h1>
+        <p> *blauw* </p>
+        </div>
+        
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
