@@ -3,5 +3,37 @@
 <body>
 <p> <b> Muziek </b> </p>
 
-    
+
+<style>
+.blokmofloat{
+background-color: blue;
+color: blueviolet;
+border: 2px solid cornflowerblue;
+margin: 20px;
+padding: 0px 25px 0px 25px;
+float: left;
+}
+
+</style>
+
+<div class="blokmofloat">
+
+<h1> Jan Roelsma Belike</h1>
+<p> *blauw* </p>
+</div>
+
+        
+
+
+
+
+
+
+
+
+
+
 </body>
+</html>
+    
+
