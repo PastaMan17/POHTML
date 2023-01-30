@@ -7,7 +7,7 @@
 <style>
 .blokmofloat{
 background-color: blue;
-color: blueviolet;
+color: grey;
 border: 2px solid cornflowerblue;
 margin: 20px;
 padding: 0px 25px 0px 25px;
@@ -18,8 +18,7 @@ float: left;
 
 <div class="blokmofloat">
 
-<h1> Jan Roelsma Belike</h1>
-<p> *blauw* </p>
+<h1> MENU </h1>
 </div>
 
         
